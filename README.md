@@ -5,7 +5,6 @@
 ## 👨‍💻 About Me
 
 - 🚀 Currently learning Spring Boot and AI
-- 🤖 Exploring Artificial Intelligence and Cloud technologies
 - 🎓 Computer Science Engineering Student
 - 💼 Full Stack Java Developer
 
@@ -33,7 +32,6 @@
 ### Tools
 - Git
 - GitHub
-- Docker
 - VS Code
 
 
