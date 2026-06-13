@@ -40,6 +40,6 @@
 
 ## 🤝 Connect With Me
 
-LinkedIn: your-linkedin-link
+LinkedIn: https://www.linkedin.com/in/atharva-dani-214558333
 
 Email: atharvadani84@gmail.com
