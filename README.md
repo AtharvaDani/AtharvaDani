@@ -1,16 +1,45 @@
-## Hi there 👋
+# 👋 Hi, I'm Atharva
 
-<!--
-**AtharvaDani/AtharvaDani** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" width="400">
 
-Here are some ideas to get you started:
+## 👨‍💻 About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🚀 Currently learning Spring Boot and AI
+- 🤖 Exploring Artificial Intelligence and Cloud technologies
+- 🎓 Computer Science Engineering Student
+- 💼 Full Stack Java Developer
+
+## 🛠️ Tech Stack
+
+### Languages
+- Java
+- C
+- JavaScript
+
+### Backend
+- Spring Boot
+- Hibernate
+- REST API
+
+### Frontend
+- React
+- HTML
+- CSS
+
+### Database
+- MySQL
+- MongoDB
+
+### Tools
+- Git
+- GitHub
+- Docker
+- VS Code
+
+
+
+## 🤝 Connect With Me
+
+LinkedIn: your-linkedin-link
+
+Email: atharvadani84@gmail.com
