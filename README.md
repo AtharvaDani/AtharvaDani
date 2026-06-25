@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Atharva
 
 <img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" width="400">
-<img src="https://beconnected.esafety.gov.au/pluginfile.php/99437/mod_resource/content/2/what-is-ai%20%281%29.jpg" width="250">
+<img src="https://beconnected.esafety.gov.au/pluginfile.php/99437/mod_resource/content/2/what-is-ai%20%281%29.jpg" width="400">
 ## 👨‍💻 About Me
 
 - 🚀 Currently learning **Spring Boot, AI Engineering, and Large Language Models (LLMs)**
