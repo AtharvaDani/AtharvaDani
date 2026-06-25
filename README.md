@@ -4,14 +4,27 @@
 
 ## 👨‍💻 About Me
 
-- 🚀 Currently learning Spring Boot and AI
+- 🚀 Currently learning **Spring Boot, AI Engineering, and Large Language Models (LLMs)**
 - 🎓 Computer Science Engineering Student
 - 💼 Full Stack Java Developer
+- 🤖 Exploring AI applications using Python, APIs, and Generative AI technologies
+
+## 🧠 Currently Learning AI
+
+- 🐍 Python for AI & Machine Learning
+- 🤖 Generative AI and Large Language Models (LLMs)
+- 🔗 Prompt Engineering
+- 🧩 LangChain & AI Application Development
+- 📚 Retrieval Augmented Generation (RAG)
+- 🗄️ Vector Databases
+- 🌐 Building AI-powered applications using APIs
+- ⚡ AI Agents and Automation Workflows
 
 ## 🛠️ Tech Stack
 
 ### Languages
 - Java
+- Python
 - C
 - JavaScript
 
@@ -19,6 +32,15 @@
 - Spring Boot
 - Hibernate
 - REST API
+- Microservices (Learning)
+
+### AI / ML
+- Python
+- Generative AI
+- LLM APIs
+- Prompt Engineering
+- LangChain (Learning)
+- RAG Architecture (Learning)
 
 ### Frontend
 - React
@@ -34,6 +56,12 @@
 - GitHub
 - VS Code
 
+
+## 🚀 Projects
+
+- 🤖 AI-powered applications using LLM APIs
+- 🌐 Full Stack Web Applications using Spring Boot + React
+- 📚 Exploring RAG-based AI systems
 
 
 ## 🤝 Connect With Me
